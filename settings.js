@@ -22,7 +22,7 @@ global.themeemoji = '🤖'
 global.creator = "918787651195@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["918787651195@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.prefixc = ['.'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
@@ -33,7 +33,7 @@ global.author = "Flexx"
 global.buttonyt = "SUBSCRIBE"
 global.buttonyturl = "https://youtube.com/@awmtea-polythene"
 global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/awmtea._.polythene"
+global.buttonigurl = "https://www.instagram.com/awmtea._polythene"
 //_______________________________________________
 global.defaultpp = 'https://telegra.ph/file/b314b8aa729e7b16f2090.jpg'
 //messages
